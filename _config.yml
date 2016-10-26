@@ -11,7 +11,7 @@ email: ocampbell.network@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Designer + Front End Developer
 baseurl: "/Portfolio2016" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://oecampbell.github.io/portfolio2016/" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 #twitter_username: oecampbell
