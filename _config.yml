@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Olivia Campbell
+email: ocampbell.network@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Web Designer + Front End Developer
+baseurl: "/Portfolio2016" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social media profiles - feel free to add more here
+#twitter_username: oecampbell
+github_username:  oecampbell
+facebook_username: oecampbell
+#instagram_username: beyonce
+#stackoverflow_url: https://
+#googleplus_username: BobMarley
+#skype_username: echo123
+linkedin_url: https://uk.linkedin.com/in/oecampbell
+
+#Address information
+#address_street: London
+#address_city: UK
+#address_state:
+#address_zip:
+
+# Build settings
+markdown: kramdown

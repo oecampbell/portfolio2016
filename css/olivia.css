@@ -1,0 +1,44 @@
+
+
+.navbar-custom{
+  background: #05668d;
+}
+.navbar-custom .navbar-nav li.active a {
+  background-color: #00a896;
+}
+header {
+  background-color: #028090;
+  color: #fdfdf9;
+}
+/*Portfolio*/
+section#portfolio{
+  background-color: #fdfdf9;
+}
+hr.star-primary{
+  border-color: #032F41;
+}
+hr.star-primary:after {
+  background-color: #00a896;
+}
+/*About Me*/
+section.success {
+  color: #fdfdf9;
+  background-color: #028090;
+}
+section.success p {
+  color:#fdfdf9;
+  margin: 10px;
+}
+hr.star-light:after {
+  background-color: #05668d;
+}
+
+/*Follow Me*/
+footer .footer-above {
+  background-color: #05668d;
+/*Copyright footer*/
+}
+footer .footer-below {
+  background-color: #032F41;
+
+}
