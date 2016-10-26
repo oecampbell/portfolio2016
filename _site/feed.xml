@@ -4,10 +4,10 @@
     <title>Olivia Campbell</title>
     <description>Web Designer + Front End Developer
 </description>
-    <link>http://localhost:4000/Portfolio2016/</link>
-    <atom:link href="http://localhost:4000/Portfolio2016/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Oct 2016 02:09:55 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 02:09:55 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Oct 2016 11:23:12 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 11:23:12 +0100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -19,8 +19,8 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 </description>
         <pubDate>Mon, 10 Oct 2016 21:08:10 +0100</pubDate>
-        <link>http://localhost:4000/Portfolio2016/design/2016/10/10/cabin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Portfolio2016/design/2016/10/10/cabin.html</guid>
+        <link>/design/2016/10/10/cabin.html</link>
+        <guid isPermaLink="true">/design/2016/10/10/cabin.html</guid>
         
         
         <category>Design</category>
@@ -35,8 +35,8 @@ Use this area of the page to describe your project. The icon above is part of a 
 
 </description>
         <pubDate>Mon, 01 Feb 2016 20:08:10 +0000</pubDate>
-        <link>http://localhost:4000/Portfolio2016/design/2016/02/01/submarine.html</link>
-        <guid isPermaLink="true">http://localhost:4000/Portfolio2016/design/2016/02/01/submarine.html</guid>
+        <link>/design/2016/02/01/submarine.html</link>
+        <guid isPermaLink="true">/design/2016/02/01/submarine.html</guid>
         
         
         <category>Design</category>
