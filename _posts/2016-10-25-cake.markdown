@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cake"
+date:   2016-10-25 16:08:10 -0500
+img: img/portfolio/cake.png
+modalID: modalCake
+category: Design
+---
+Testing the cake
+[test](https://blog.webjeda.com/edit-posts-jekyll/)
