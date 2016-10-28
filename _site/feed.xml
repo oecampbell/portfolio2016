@@ -4,10 +4,10 @@
     <title>Olivia Campbell</title>
     <description>Web Designer + Front End Developer
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2016 18:55:55 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2016 18:55:55 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Oct 2016 12:17:15 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 12:17:15 +0100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -15,11 +15,24 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/ror/2016/08/29/TreatOut.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ror/2016/08/29/TreatOut.html</guid>
+        <link>/rails/2016/08/29/TreatOut.html</link>
+        <guid isPermaLink="true">/rails/2016/08/29/TreatOut.html</guid>
         
         
-        <category>RoR</category>
+        <category>Rails</category>
+        
+      </item>
+    
+      <item>
+        <title>Static AirBnB</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/airbnb-static/&quot;&gt;Static AirBnB&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Aug 2016 22:08:10 +0100</pubDate>
+        <link>/website/2016/08/28/static-airbnb.html</link>
+        <guid isPermaLink="true">/website/2016/08/28/static-airbnb.html</guid>
+        
+        
+        <category>Website</category>
         
       </item>
     
@@ -29,11 +42,11 @@
 
 </description>
         <pubDate>Wed, 10 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/js/2016/08/10/WagonRace.html</link>
-        <guid isPermaLink="true">http://localhost:4000/js/2016/08/10/WagonRace.html</guid>
+        <link>/javascript/2016/08/10/WagonRace.html</link>
+        <guid isPermaLink="true">/javascript/2016/08/10/WagonRace.html</guid>
         
         
-        <category>JS</category>
+        <category>JavaScript</category>
         
       </item>
     
@@ -42,8 +55,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/KHF/&quot;&gt;Kings Health &amp;amp; Fitness&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jul 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/2016/07/11/KHF.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2016/07/11/KHF.html</guid>
+        <link>/jekyll/2016/07/11/KHF.html</link>
+        <guid isPermaLink="true">/jekyll/2016/07/11/KHF.html</guid>
         
         
         <category>Jekyll</category>
@@ -55,11 +68,11 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/My-Site/&quot;&gt;My First Website and Design Portfolio&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jun 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/html/2016/06/06/My-Site.html</link>
-        <guid isPermaLink="true">http://localhost:4000/html/2016/06/06/My-Site.html</guid>
+        <link>/website/2016/06/06/My-Site.html</link>
+        <guid isPermaLink="true">/website/2016/06/06/My-Site.html</guid>
         
         
-        <category>HTML</category>
+        <category>Website</category>
         
       </item>
     
