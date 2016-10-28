@@ -4,6 +4,6 @@ title:  "TreatOut"
 date:   2016-08-29 16:08:10 -0500
 img: img/portfolio/TreatOut.png
 modalID: modalTreatOut
-category: RoR
+category: Rails
 ---
 [TreatOut](http://beta.treatout.com)
