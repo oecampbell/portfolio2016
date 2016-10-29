@@ -6,12 +6,12 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 11:41:40 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 11:41:40 +0100</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 11:50:42 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 11:50:42 +0100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
-        <title>TreatOut</title>
+        <title>Le Wagon: TreatOut</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt; was a 2 week final project and the objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.&lt;/p&gt;
 
 &lt;p&gt;This project was carried out in a team of 3 which included the Co-founder of TreatOut Nathalie who was the Lead Developer of her product idea. The changellenges we had faced as a team was trying to condense the database schema, build only what was required from the user stories, and getting the food profiles and the ingredients in the database to create a match for dishes.&lt;/p&gt;
@@ -28,7 +28,7 @@
       </item>
     
       <item>
-        <title>Static AirBnB</title>
+        <title>Le Wagon: Static AirBnB</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/airbnb-static/&quot;&gt;Static AirBnB&lt;/a&gt; the purpose of this exercise was to gain practice using boostrap, JavaScript for inserting Google Maps and reusing UI components.&lt;/p&gt;
 
 &lt;p&gt;It did not take long to implement as I reused code from previous exercises the tricky part was the google maps as you can see on my live site it does not work as I need to register for a Google API key for the map to display publicly.&lt;/p&gt;
@@ -45,7 +45,7 @@
       </item>
     
       <item>
-        <title>Wagon Race</title>
+        <title>Le Wagon: Wagon Race</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/Wagon-Race/&quot;&gt;Wagon Race JS Game&lt;/a&gt; was part of a one day workshop to grasp the concept of JavaScript events and callbcks. The task was to build a simple JavaScript game where 2 players can race their wagons by pressing akey to move forwards.&lt;/p&gt;
 
 &lt;p&gt;The first part of binding the keys was fairly straight forward but then trying to work out how to make the wagons move forward when a click event occured was the real challenge.&lt;/p&gt;
