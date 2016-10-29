@@ -6,4 +6,5 @@ img: img/portfolio/KHF.png
 modalID: modalKHF
 category: Jekyll
 ---
-[Kings Health & Fitness](http://oecampbell.github.io/KHF/)
+[Kings Health & Fitness](http://oecampbell.github.io/KHF/) was done for a client who wanted a one page site which displayed all of his social media links. I had suggested for his line of business it would be more benificial to have a one page call to action landing page instead to draw new clients in but this was refused.
+

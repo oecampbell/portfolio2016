@@ -4,19 +4,23 @@
     <title>Olivia Campbell</title>
     <description>Junior Web Developer + Designer
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 01:21:09 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 01:21:09 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Oct 2016 11:41:40 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 11:41:40 +0100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>TreatOut</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt; was a 2 week final project and the objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.&lt;/p&gt;
+
+&lt;p&gt;This project was carried out in a team of 3 which included the Co-founder of TreatOut Nathalie who was the Lead Developer of her product idea. The changellenges we had faced as a team was trying to condense the database schema, build only what was required from the user stories, and getting the food profiles and the ingredients in the database to create a match for dishes.&lt;/p&gt;
+
+&lt;p&gt;The personal challenges I came across was understanding how the routes and navigation would work.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/rails/2016/08/29/TreatOut.html</link>
-        <guid isPermaLink="true">http://localhost:4000/rails/2016/08/29/TreatOut.html</guid>
+        <link>/rails/2016/08/29/TreatOut.html</link>
+        <guid isPermaLink="true">/rails/2016/08/29/TreatOut.html</guid>
         
         
         <category>Rails</category>
@@ -25,11 +29,15 @@
     
       <item>
         <title>Static AirBnB</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/airbnb-static/&quot;&gt;Static AirBnB&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/airbnb-static/&quot;&gt;Static AirBnB&lt;/a&gt; the purpose of this exercise was to gain practice using boostrap, JavaScript for inserting Google Maps and reusing UI components.&lt;/p&gt;
+
+&lt;p&gt;It did not take long to implement as I reused code from previous exercises the tricky part was the google maps as you can see on my live site it does not work as I need to register for a Google API key for the map to display publicly.&lt;/p&gt;
+
+&lt;p&gt;To go further with this project I would insert a date picker so you can select your check in and check out dates in the banner.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/website/2016/08/28/static-airbnb.html</link>
-        <guid isPermaLink="true">http://localhost:4000/website/2016/08/28/static-airbnb.html</guid>
+        <link>/website/2016/08/28/static-airbnb.html</link>
+        <guid isPermaLink="true">/website/2016/08/28/static-airbnb.html</guid>
         
         
         <category>Website</category>
@@ -38,12 +46,16 @@
     
       <item>
         <title>Wagon Race</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/Wagon-Race/&quot;&gt;Wagon Race JS Game&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://oecampbell.github.io/Wagon-Race/&quot;&gt;Wagon Race JS Game&lt;/a&gt; was part of a one day workshop to grasp the concept of JavaScript events and callbcks. The task was to build a simple JavaScript game where 2 players can race their wagons by pressing akey to move forwards.&lt;/p&gt;
+
+&lt;p&gt;The first part of binding the keys was fairly straight forward but then trying to work out how to make the wagons move forward when a click event occured was the real challenge.&lt;/p&gt;
+
+&lt;p&gt;Most of my classmates ended up with a series of if statments followed by counters which was really confusing to understand.I chose to focus on using the cells and reading documentations online instead.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 10 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/javascript/2016/08/10/WagonRace.html</link>
-        <guid isPermaLink="true">http://localhost:4000/javascript/2016/08/10/WagonRace.html</guid>
+        <link>/javascript/2016/08/10/WagonRace.html</link>
+        <guid isPermaLink="true">/javascript/2016/08/10/WagonRace.html</guid>
         
         
         <category>JavaScript</category>
@@ -52,11 +64,12 @@
     
       <item>
         <title>Kings Health and Fitness</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/KHF/&quot;&gt;Kings Health &amp;amp; Fitness&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/KHF/&quot;&gt;Kings Health &amp;amp; Fitness&lt;/a&gt; was done for a client who wanted a one page site which displayed all of his social media links. I had suggested for his line of business it would be more benificial to have a one page call to action landing page instead to draw new clients in but this was refused.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 11 Jul 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/2016/07/11/KHF.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2016/07/11/KHF.html</guid>
+        <link>/jekyll/2016/07/11/KHF.html</link>
+        <guid isPermaLink="true">/jekyll/2016/07/11/KHF.html</guid>
         
         
         <category>Jekyll</category>
@@ -65,11 +78,15 @@
     
       <item>
         <title>My-Site</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/My-Site/&quot;&gt;My First Website and Design Portfolio&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://oecampbell.github.io/My-Site/&quot;&gt;My Site&lt;/a&gt; was my first responsive website done from scratch by using HTML, CSS and media query whilst following an online tutorial on Treehouse.&lt;/p&gt;
+
+&lt;p&gt;Although it was time consuming exercise as a beginner it got me into constantly testing manually my work and could see what was or wasn’t working on how the site would display both on desktop and mobile.&lt;/p&gt;
+
+&lt;p&gt;The most difficult part of this exercise was doing the navbar and making sure it looked fine on mobile because it is so easy to apply too much margin or padding. The digital artwork displayed on this website are all my own original work.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jun 2016 22:08:10 +0100</pubDate>
-        <link>http://localhost:4000/website/2016/06/06/My-Site.html</link>
-        <guid isPermaLink="true">http://localhost:4000/website/2016/06/06/My-Site.html</guid>
+        <link>/website/2016/06/06/My-Site.html</link>
+        <guid isPermaLink="true">/website/2016/06/06/My-Site.html</guid>
         
         
         <category>Website</category>

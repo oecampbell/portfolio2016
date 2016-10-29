@@ -1,19 +1,29 @@
-.navbar-custom{
-  background: #05668d;
-}
-.navbar-custom .navbar-nav li.active a {
-  background-color: #00a896;
-}
+/*General*/
 .avatar-large {
   width: 200px;
   border-radius: 50%;
   box-shadow: 0 1px 2px rgba(0,0,0,0.2);
   border: white 1px solid;
 }
+a {
+  color: #18BC9C;
+}
+a:hover {
+  color: #032F41;
+}
 header {
   background-color: #028090;
   color: #fdfdf9;
 }
+
+/*Navigation*/
+.navbar-custom{
+  background: #05668d;
+}
+.navbar-custom .navbar-nav li.active a {
+  background-color: #00a896;
+}
+
 /*Portfolio*/
 section#portfolio{
   background-color: #fdfdf9;
@@ -24,6 +34,24 @@ hr.star-primary{
 hr.star-primary:after {
   background-color: #00a896;
 }
+
+/*Portfolio Posts*/
+.portfolio-modal .modal-content h2 {
+ text-align: center;
+}
+.modal-body {
+  text-align: left;
+}
+.modal-body p {
+  padding: 0 0 0 12px;
+}
+.list-inline li {
+  padding-left: 12px;
+}
+.btn-default {
+  margin: 10px;
+}
+
 /*About Me*/
 section.success {
   color: #fdfdf9;
@@ -32,9 +60,6 @@ section.success {
 section.success p {
   color:#fdfdf9;
   margin: 10px;
-}
-section.success a, a.active, a:active, a:focus, a:hover  {
-  text-decoration: none;
 }
 hr.star-light:after {
   background-color: #05668d;
@@ -47,5 +72,4 @@ footer .footer-above {
 }
 footer .footer-below {
   background-color: #032F41;
-
 }

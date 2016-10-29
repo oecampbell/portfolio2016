@@ -6,4 +6,8 @@ img:  img/portfolio/My-Site.png
 modalID: modalSite
 category: Website
 ---
-[My First Website and Design Portfolio](http://oecampbell.github.io/My-Site/)
+[My Site](http://oecampbell.github.io/My-Site/) was my first responsive website done from scratch by using HTML, CSS and media query whilst following an online tutorial on Treehouse.
+
+Although it was time consuming exercise as a beginner it got me into constantly testing manually my work and could see what was or wasn't working on how the site would display both on desktop and mobile.
+
+The most difficult part of this exercise was doing the navbar and making sure it looked fine on mobile because it is so easy to apply too much margin or padding. The digital artwork displayed on this website are all my own original work.
