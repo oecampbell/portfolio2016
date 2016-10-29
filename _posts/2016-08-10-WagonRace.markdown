@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wagon Race"
+title:  "Le Wagon: Wagon Race"
 date:   2016-08-10 16:08:10 -0500
 img: img/portfolio/WagonRace.png
 modalID: modalJS
