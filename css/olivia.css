@@ -33,7 +33,7 @@ section.success p {
   color:#fdfdf9;
   margin: 10px;
 }
-section.success a {
+section.success a, a.active, a:active, a:focus, a:hover  {
   text-decoration: none;
 }
 hr.star-light:after {
