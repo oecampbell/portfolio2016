@@ -1,5 +1,3 @@
-
-
 .navbar-custom{
   background: #05668d;
 }
@@ -34,6 +32,9 @@ section.success {
 section.success p {
   color:#fdfdf9;
   margin: 10px;
+}
+section.success a {
+  text-decoration: none;
 }
 hr.star-light:after {
   background-color: #05668d;
