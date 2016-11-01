@@ -6,8 +6,11 @@ img: img/portfolio/TreatOut.png
 modalID: modalTreatOut
 category: Rails
 ---
-[TreatOut](http://beta.treatout.com) was a 2 week final project and the objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can't eat so that they are shown which dishes they can eat at selected participating restaurants.
 
-This project was carried out in a team of 3 which included the Co-founder of TreatOut Nathalie who was the Lead Developer of her product idea. The changellenges we had faced as a team was trying to condense the database schema, build only what was required from the user stories, and getting the food profiles and the ingredients in the database to create a match for dishes.
+Watch the [TreatOut](http://beta.treatout.com) demo at Campus London [here](https://youtu.be/83fw4h2vxCc?t=11m48s).
 
-The personal challenges I came across was understanding how the routes and navigation would work.
+This was a 10 days final project carried out by Nathalie (TreatOut Co-founder & Lead Developer), Ahmad, and myself. The objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.
+
+The challenges we had faced as a team was trying to condense the database schema and building only what was required from the user stories. The personal challenges I came across was understanding how the routes, navigation would work throughout the site, and starting the SEO implementation this product. Most of my times was spent referring back to previous exercises I had done on the course or reading further documentations online to solve my issues. The easy part was redesigning the user forms in line with the TreatOut theme.
+
+
