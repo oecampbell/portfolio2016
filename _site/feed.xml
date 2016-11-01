@@ -6,17 +6,18 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 11:50:42 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 11:50:42 +0100</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 16:03:13 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 16:03:13 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Le Wagon: TreatOut</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt; was a 2 week final project and the objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.&lt;/p&gt;
+        <description>&lt;p&gt;Watch the &lt;a href=&quot;http://beta.treatout.com&quot;&gt;TreatOut&lt;/a&gt; demo at Campus London &lt;a href=&quot;https://youtu.be/83fw4h2vxCc?t=11m48s&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This project was carried out in a team of 3 which included the Co-founder of TreatOut Nathalie who was the Lead Developer of her product idea. The changellenges we had faced as a team was trying to condense the database schema, build only what was required from the user stories, and getting the food profiles and the ingredients in the database to create a match for dishes.&lt;/p&gt;
+&lt;p&gt;This was a 10 days final project carried out by Nathalie (TreatOut Co-founder &amp;amp; Lead Developer), Ahmad, and myself. The objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.&lt;/p&gt;
 
-&lt;p&gt;The personal challenges I came across was understanding how the routes and navigation would work.&lt;/p&gt;
+&lt;p&gt;The challenges we had faced as a team was trying to condense the database schema and building only what was required from the user stories. The personal challenges I came across was understanding how the routes, navigation would work throughout the site, and starting the SEO implementation this product. Most of my times was spent referring back to previous exercises I had done on the course or reading further documentations online to solve my issues. The easy part was redesigning the user forms in line with the TreatOut theme.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 29 Aug 2016 22:08:10 +0100</pubDate>
         <link>/rails/2016/08/29/TreatOut.html</link>
