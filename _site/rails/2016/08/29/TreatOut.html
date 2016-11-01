@@ -63,9 +63,9 @@
                 <li class="page-scroll">
                     <a href="#about">About</a>
                 </li>
-                <!-- <li class="page-scroll">
+                <li class="page-scroll">
                     <a href="#contact">Contact</a>
-                </li> -->
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -180,11 +180,64 @@
           </div>
           <div class="col-lg-4">
             <p>After working on 2 team products during my time at Le Wagon doing mostly Backend I want to now focus on Frontend Development.
-            <p>I am currently seeking work so <a href="mailto:ocampbell.network@gmail.com"> let's talk today </a> and start building amazing things tomorrow.</p>
+            <p>I am currently seeking work so let's talk today and start building amazing things tomorrow.</p>
           </div>
         </div>
       </div>
     </section>
+
+
+    <!-- Contact Section -->
+<section id="contact">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2>Contact Me</h2>
+              <hr class="star-primary">
+          </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+   <!-- Contact Section -->
+          <form id="contactform" method="POST">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Name</label>
+                <input type="text" class="form-control" name="name" placeholder="Your name" id="name" required data-validation-required-message="Please enter your name.">
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Your Phone Number</label>
+                <input type="tel" class="form-control" name="phone" placeholder="Your phone number" id="phone" required data-validation-required-message="Please enter your phone number.">
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Email Address</label>
+                <input type="email" class="form-control" name="_replyto" placeholder="Your email" id="email" required data-validation-required-message="Please enter your email address.">
+                <input type="hidden" name="_subject" value="Website contact" />
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Message</label>
+                <textarea name="message" class="form-control" placeholder="Your message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+              </div>
+            </div>
+            <br>
+            <div id="success"></div>
+              <div class="row">
+                <div class="form-group col-xs-12">
+                <input type="text" name="_gotcha" style="display:none" />
+                <input type="submit" class="btn btn-success btn-lg" value="Send">
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+  </div>
+</section>
 
 
     <!-- Footer -->
@@ -448,8 +501,15 @@
 <!-- Contact Form JavaScript -->
 <script src="http://sbootstrap-freelancer.startbootstrapc.netdna-cdn.com/js/jqBootstrapValidation.js"></script>
 <script src="http://sbootstrap-freelancer.startbootstrapc.netdna-cdn.com/js/contact_me.js"></script>
+<!-- Deter spambots from scanning email from html -->
+<script>
+  var contactform =  document.getElementById('contactform');
+  contactform.setAttribute('action', '//formspree.io/' + 'ocampbell.network' + '@' + 'gmail' + '.' + 'com');
+</script>
 <!-- Custom Theme JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-freelancer/3.3.7/js/freelancer.min.js"></script>
+
+
 
 
   </body>
