@@ -6,19 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social media profiles
-#twitter_username:
 github_username:  oecampbell
 facebook_username: oecampbell
-#stackoverflow_url: https://
-#googleplus_username:
-#skype_username:
 linkedin_url: https://uk.linkedin.com/in/oecampbell
-
-#Address information
-#address_street: London
-#address_city: UK
-#address_state:
-#address_zip:
 
 #White-listed plugins
 gems:
