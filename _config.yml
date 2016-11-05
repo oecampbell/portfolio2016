@@ -1,18 +1,17 @@
 # Site settings
 title: Olivia Campbell
 description: > # this means to ignore newlines until "baseurl:"
-  Junior Frontend Developer + Web Designer
+  Junior Web Developer and Web Designer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-# Social media profiles - feel free to add more here
-#twitter_username: oecampbell
+# Social media profiles
+#twitter_username:
 github_username:  oecampbell
 facebook_username: oecampbell
-#instagram_username: beyonce
 #stackoverflow_url: https://
-#googleplus_username: BobMarley
-#skype_username: echo123
+#googleplus_username:
+#skype_username:
 linkedin_url: https://uk.linkedin.com/in/oecampbell
 
 #Address information
