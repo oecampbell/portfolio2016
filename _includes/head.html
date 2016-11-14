@@ -1,9 +1,11 @@
 <head>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% if page.title %}<meta name="title" content="{{page.title}}" />{% endif %}
+  <meta name="keywords" content="Olivia Campbell, Front end, UI, Graphic Design, Web Design">
+  <meta http-equiv="Content-Language" content="EN">
+  <meta name="author" content="Olivia Campbell">
+  <title>Junior Web Developer and Designer | Olivia Campbell</title>
   {% if page.description %}<meta name="description" content="{{page.description}}" />{% endif %}
   <meta property="og:title" content="{% if page.title %} {{ page.title | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.title }} {% endif %}">
 
@@ -11,10 +13,10 @@
 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 
-  <!-- Bootstrap Core CSS -->
+  <link rel="canonical" href="http://www.http://olivia.campbell.today/" />
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-  <!-- Freelancer and Olivia's Theme CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-freelancer/3.3.7/css/freelancer.min.css">
   <link rel="stylesheet" href="{{ "css/olivia.css" }}">
 
@@ -22,7 +24,6 @@
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-  <!-- Custom Fonts -->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
