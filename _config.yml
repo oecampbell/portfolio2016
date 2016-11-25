@@ -1,7 +1,7 @@
 # Site settings
 title: Olivia Campbell
 description: > # this means to ignore newlines until "baseurl:"
-  Junior Web Developer and Designer
+  Front End Developer and Designer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://olivia.campbell.today" # the base hostname & protocol for your site
 
