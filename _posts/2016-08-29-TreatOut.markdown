@@ -7,7 +7,7 @@ modalID: modalTreatOut
 category: Rails
 ---
 
-Watch the [TreatOut](http://beta.treatout.com) demo at Campus London [here](https://youtu.be/83fw4h2vxCc?t=11m48s).
+Watch the TreatOut demo at Campus London [here](https://youtu.be/83fw4h2vxCc?t=11m48s).
 
 This was a 10 days final project carried out by Nathalie (TreatOut Co-founder & Lead Developer), Ahmad, and myself. The objective was to build a web app where people who have food allergies or intolerances can create a food profile of what they can’t eat so that they are shown which dishes they can eat at selected participating restaurants.
 
