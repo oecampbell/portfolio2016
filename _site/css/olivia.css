@@ -15,7 +15,7 @@ header {
   background-color: #028090;
   color: #fdfdf9;
 }
-.btn {
+.navbar-toggle .btn {
   padding: 0px;
   font-size: 12px;
 }
