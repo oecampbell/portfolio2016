@@ -4,10 +4,10 @@
     <title>Olivia Campbell</title>
     <description>Front End Developer and Designer
 </description>
-    <link>http://olivia.campbell.today/</link>
-    <atom:link href="http://olivia.campbell.today/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Dec 2016 10:43:12 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2016 10:43:12 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Jan 2017 22:35:52 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2017 22:35:52 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -20,8 +20,8 @@
 
 </description>
         <pubDate>Mon, 29 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://olivia.campbell.today/rails/2016/08/29/TreatOut.html</link>
-        <guid isPermaLink="true">http://olivia.campbell.today/rails/2016/08/29/TreatOut.html</guid>
+        <link>http://localhost:4000/rails/2016/08/29/TreatOut.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rails/2016/08/29/TreatOut.html</guid>
         
         
         <category>Rails</category>
@@ -37,8 +37,8 @@
 &lt;p&gt;To go further with this project I would insert a date picker so you can select your check in and check out dates in the banner.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://olivia.campbell.today/website/2016/08/28/static-airbnb.html</link>
-        <guid isPermaLink="true">http://olivia.campbell.today/website/2016/08/28/static-airbnb.html</guid>
+        <link>http://localhost:4000/website/2016/08/28/static-airbnb.html</link>
+        <guid isPermaLink="true">http://localhost:4000/website/2016/08/28/static-airbnb.html</guid>
         
         
         <category>Website</category>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Wed, 10 Aug 2016 22:08:10 +0100</pubDate>
-        <link>http://olivia.campbell.today/javascript/2016/08/10/WagonRace.html</link>
-        <guid isPermaLink="true">http://olivia.campbell.today/javascript/2016/08/10/WagonRace.html</guid>
+        <link>http://localhost:4000/javascript/2016/08/10/WagonRace.html</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript/2016/08/10/WagonRace.html</guid>
         
         
         <category>JavaScript</category>
@@ -69,8 +69,8 @@
 
 </description>
         <pubDate>Mon, 11 Jul 2016 22:08:10 +0100</pubDate>
-        <link>http://olivia.campbell.today/jekyll/2016/07/11/KHF.html</link>
-        <guid isPermaLink="true">http://olivia.campbell.today/jekyll/2016/07/11/KHF.html</guid>
+        <link>http://localhost:4000/jekyll/2016/07/11/KHF.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2016/07/11/KHF.html</guid>
         
         
         <category>Jekyll</category>
@@ -86,8 +86,8 @@
 &lt;p&gt;The most difficult part of this exercise was doing the navbar and making sure it looked fine on mobile because it is so easy to apply too much margin or padding. The digital artwork displayed on this website are all my own original work.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jun 2016 22:08:10 +0100</pubDate>
-        <link>http://olivia.campbell.today/website/2016/06/06/My-Site.html</link>
-        <guid isPermaLink="true">http://olivia.campbell.today/website/2016/06/06/My-Site.html</guid>
+        <link>http://localhost:4000/website/2016/06/06/My-Site.html</link>
+        <guid isPermaLink="true">http://localhost:4000/website/2016/06/06/My-Site.html</guid>
         
         
         <category>Website</category>
