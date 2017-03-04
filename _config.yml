@@ -10,9 +10,6 @@ github_username:  oecampbell
 facebook_username: oecampbell
 linkedin_url: https://uk.linkedin.com/in/oecampbell
 
-#White-listed plugins
-gems:
-  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
